@@ -1,0 +1,12 @@
+.calification-progress, .pros-cons-container, .btn-container, .header-product {
+  margin: 0;
+}
+.analysis {
+  display: none;
+}
+.analysis_mobile {
+  display: block;
+}
+.margin-cta-analysis {
+  margin-top: 0;
+}
